@@ -14,7 +14,11 @@ This project is a simple TypeScript-based React application developed as part of
 - **React** (v18.3.1)
 - **TypeScript**
 - **Chakra UI** (Toast component)
+<<<<<<< HEAD
 - **FontAwesome** (for icons)
+=======
+- **Chakra UI** Icons ** (for icons)
+>>>>>>> de312bed56542f2c13ff4990957862c2d58bf85f
 
 ## Getting Started
 
@@ -99,3 +103,8 @@ Installation:
 ```bash
 npm install @chakra-ui/icons
 ```
+<<<<<<< HEAD
+=======
+#### Author
+Prasanth kizhakkedath
+>>>>>>> de312bed56542f2c13ff4990957862c2d58bf85f
