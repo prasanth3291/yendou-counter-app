@@ -14,7 +14,7 @@ This project is a simple TypeScript-based React application developed as part of
 - **React** (v18.3.1)
 - **TypeScript**
 - **Chakra UI** (Toast component)
-- **FontAwesome** (for icons)
+- **Chakra UI** Icons ** (for icons)
 
 ## Getting Started
 
