@@ -103,8 +103,7 @@ Installation:
 ```bash
 npm install @chakra-ui/icons
 ```
-<<<<<<< HEAD
-=======
+
 #### Author
 Prasanth kizhakkedath
->>>>>>> de312bed56542f2c13ff4990957862c2d58bf85f
+
