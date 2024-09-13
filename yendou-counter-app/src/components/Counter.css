@@ -1,0 +1,31 @@
+.counter-container {
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-left: 15px;
+    margin: 8px;
+    padding: 5px;
+    font-size: 1rem;
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+
+
+  
